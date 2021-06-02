@@ -4,7 +4,7 @@
 #include <ArduinoJson.h>
 
 const char * ssid = "Your Wifi Name";
-const char * password = "your wifi password";
+const char * password = "Your Wifi Password";
 
 
 void setup(void){
